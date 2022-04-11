@@ -68,7 +68,7 @@ knitr::include_graphics("img/QGIS.png")
 
 <br>
 
-Desktop GIS applications are typically [graphical user interfaces (GUIs)](https://en.wikipedia.org/wiki/Graphical_user_interface) that call on various other **_geospatial libraries_** to do the actual data processing (think of these as sets of functions or tools). Some examples of FOSS geospatial libraries are [GDAL](https://gdal.org/) and [GEOS](https://trac.osgeo.org/geos), which are designed to deal with different data models and/or file types. Another one you'll encounter quite a bit id [PROJ](https://proj.org/), which deals with coordinate reference systems.
+Desktop GIS applications are typically [graphical user interfaces (GUIs)](https://en.wikipedia.org/wiki/Graphical_user_interface) that call on various other **_geospatial libraries_** to do the actual data processing (think of these as sets of functions or tools). Some examples of FOSS geospatial libraries are [GDAL](https://gdal.org/) and [GEOS](https://trac.osgeo.org/geos), which are designed to deal with different data models and/or file types. Another one you'll encounter quite a bit is [PROJ](https://proj.org/), which deals with coordinate reference systems.
 
 We can also do GIS by calling the geospatial libraries and other GIS software types directly with various programming languages. While we can use many (or just about any) coding language, there are a few for which the functions and syntax are better developed for the user, including:
 
