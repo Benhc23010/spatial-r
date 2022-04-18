@@ -56,7 +56,7 @@ All code, images, etc can be found [here](https://github.com/jslingsby/spatial-r
 
 ## Using this resource {#using}
 
-I've included quite a bit of demonstration R code in Chapter \@ref(rdemo). To tun the code you will need:
+I've included quite a bit of demonstration R code in Chapter \@ref(rdemo). To run the code you will need:
 
 * to have working R and RStudio installations - [this](https://learnr-examples.shinyapps.io/ex-setup-r/) tutorial may help if needed
 * to install the following R packages (you can copy and run the code):
